@@ -1,5 +1,6 @@
 # SudokuSolver
-A simple backtracking sudoku solver, GUI will come
+A simple backtracking sudoku solver, GUI will come.
+
 For any normal sudoku this solver takes under half a second, but can take longer if the sudoku is set up to be anti brute force.
 
 
